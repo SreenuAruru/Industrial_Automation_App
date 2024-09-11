@@ -1,0 +1,10 @@
+/* index.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  margin: auto;
+  max-width: 600px;
+}
